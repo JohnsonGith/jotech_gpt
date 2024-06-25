@@ -1,7 +1,6 @@
 import React from 'react'
 import './navbar.css'
-import {RiMenu3Line, React.PropTypes} from 'react-icons/ri'
-import {FaSearch} from 'react-icons/fa'
+import {RiMenu3Line, RiCloseLine} from 'react-icons/ri'
 
 //BEM > Block Element Modifier
 //Block: navbar
