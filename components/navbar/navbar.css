@@ -2,8 +2,13 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-
+  background: var(--color-bg);
   padding: 2rem 6rem;
+  color: #fff;
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 25px;
 }
 
 .gpt3__navbar-links {
